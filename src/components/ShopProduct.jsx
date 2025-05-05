@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate, useParams,  } from 'react-router'
+import { useNavigate, useParams } from 'react-router'
 import Navbar from './Navbar'
 
 const ShopProduct = () => {
